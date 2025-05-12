@@ -1,0 +1,10 @@
+C:\Python\WindowsFormsApp4\FileFinderExample\bin\Debug\FileFinderExample.exe.config
+C:\Python\WindowsFormsApp4\FileFinderExample\bin\Debug\FileFinderExample.exe
+C:\Python\WindowsFormsApp4\FileFinderExample\bin\Debug\FileFinderExample.pdb
+C:\Python\WindowsFormsApp4\FileFinderExample\obj\Debug\FileFinderExample.csproj.AssemblyReference.cache
+C:\Python\WindowsFormsApp4\FileFinderExample\obj\Debug\FileFinderExample.Form1.resources
+C:\Python\WindowsFormsApp4\FileFinderExample\obj\Debug\FileFinderExample.Properties.Resources.resources
+C:\Python\WindowsFormsApp4\FileFinderExample\obj\Debug\FileFinderExample.csproj.GenerateResource.cache
+C:\Python\WindowsFormsApp4\FileFinderExample\obj\Debug\FileFinderExample.csproj.CoreCompileInputs.cache
+C:\Python\WindowsFormsApp4\FileFinderExample\obj\Debug\FileFinderExample.exe
+C:\Python\WindowsFormsApp4\FileFinderExample\obj\Debug\FileFinderExample.pdb

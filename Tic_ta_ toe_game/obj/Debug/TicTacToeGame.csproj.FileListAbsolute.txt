@@ -1,0 +1,10 @@
+C:\Python\WindowsFormsApp4\Tic_ta_ toe_game\bin\Debug\Tic_ta_ toe_game.exe.config
+C:\Python\WindowsFormsApp4\Tic_ta_ toe_game\bin\Debug\Tic_ta_ toe_game.exe
+C:\Python\WindowsFormsApp4\Tic_ta_ toe_game\bin\Debug\Tic_ta_ toe_game.pdb
+C:\Python\WindowsFormsApp4\Tic_ta_ toe_game\obj\Debug\TicTacToeGame.csproj.AssemblyReference.cache
+C:\Python\WindowsFormsApp4\Tic_ta_ toe_game\obj\Debug\Tic_ta__toe_game.FrmTicTacToe.resources
+C:\Python\WindowsFormsApp4\Tic_ta_ toe_game\obj\Debug\Tic_ta__toe_game.Properties.Resources.resources
+C:\Python\WindowsFormsApp4\Tic_ta_ toe_game\obj\Debug\TicTacToeGame.csproj.GenerateResource.cache
+C:\Python\WindowsFormsApp4\Tic_ta_ toe_game\obj\Debug\TicTacToeGame.csproj.CoreCompileInputs.cache
+C:\Python\WindowsFormsApp4\Tic_ta_ toe_game\obj\Debug\Tic_ta_ toe_game.exe
+C:\Python\WindowsFormsApp4\Tic_ta_ toe_game\obj\Debug\Tic_ta_ toe_game.pdb

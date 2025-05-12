@@ -1,0 +1,10 @@
+C:\Python\WindowsFormsApp4\WinFormsApp_FormatOutputBox\bin\Debug\WinFormsApp_FormatOutputBox.exe.config
+C:\Python\WindowsFormsApp4\WinFormsApp_FormatOutputBox\bin\Debug\WinFormsApp_FormatOutputBox.exe
+C:\Python\WindowsFormsApp4\WinFormsApp_FormatOutputBox\bin\Debug\WinFormsApp_FormatOutputBox.pdb
+C:\Python\WindowsFormsApp4\WinFormsApp_FormatOutputBox\obj\Debug\WinFormsApp_FormatOutputBox.csproj.AssemblyReference.cache
+C:\Python\WindowsFormsApp4\WinFormsApp_FormatOutputBox\obj\Debug\WinFormsApp_FormatOutputBox.Form1.resources
+C:\Python\WindowsFormsApp4\WinFormsApp_FormatOutputBox\obj\Debug\WinFormsApp_FormatOutputBox.Properties.Resources.resources
+C:\Python\WindowsFormsApp4\WinFormsApp_FormatOutputBox\obj\Debug\WinFormsApp_FormatOutputBox.csproj.GenerateResource.cache
+C:\Python\WindowsFormsApp4\WinFormsApp_FormatOutputBox\obj\Debug\WinFormsApp_FormatOutputBox.csproj.CoreCompileInputs.cache
+C:\Python\WindowsFormsApp4\WinFormsApp_FormatOutputBox\obj\Debug\WinFormsApp_FormatOutputBox.exe
+C:\Python\WindowsFormsApp4\WinFormsApp_FormatOutputBox\obj\Debug\WinFormsApp_FormatOutputBox.pdb
