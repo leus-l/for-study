@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp_FormatOutputBox", "WinFormsApp_FormatOutputBox\WinFormsApp_FormatOutputBox.csproj", "{C355F02F-B1BF-4163-8889-5818FC4554FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp_SaveLoadFragments", "WinFormsApp_SaveLoadFragments\WinFormsApp_SaveLoadFragments.csproj", "{BFDBF2EE-B074-453A-99B6-C43B1792AAF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp_ImpUserInterface", "WinFormsApp_ImpUserInterface\WinFormsApp_ImpUserInterface.csproj", "{982DD2F1-84D4-4059-AC72-58678358B417}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp_LuckyTicket", "WinFormsApp_LuckyTicket\WinFormsApp_LuckyTicket.csproj", "{EF87950A-BB59-4F93-B308-45FAFF57920B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileFinderExample", "FileFinderExample\FileFinderExample.csproj", "{C5281FE0-EEC2-405E-B9EF-32E23CEE190B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToeGame", "Tic_ta_ toe_game\TicTacToeGame.csproj", "{15D85831-4A1C-4B59-BD1C-4A7309956753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkWithTimer", "WorkWithTimer\WorkWithTimer.csproj", "{AD52090A-130E-4E34-8127-2E23D0EDF93A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C355F02F-B1BF-4163-8889-5818FC4554FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C355F02F-B1BF-4163-8889-5818FC4554FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C355F02F-B1BF-4163-8889-5818FC4554FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C355F02F-B1BF-4163-8889-5818FC4554FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFDBF2EE-B074-453A-99B6-C43B1792AAF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFDBF2EE-B074-453A-99B6-C43B1792AAF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFDBF2EE-B074-453A-99B6-C43B1792AAF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFDBF2EE-B074-453A-99B6-C43B1792AAF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{982DD2F1-84D4-4059-AC72-58678358B417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{982DD2F1-84D4-4059-AC72-58678358B417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{982DD2F1-84D4-4059-AC72-58678358B417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{982DD2F1-84D4-4059-AC72-58678358B417}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF87950A-BB59-4F93-B308-45FAFF57920B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF87950A-BB59-4F93-B308-45FAFF57920B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF87950A-BB59-4F93-B308-45FAFF57920B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF87950A-BB59-4F93-B308-45FAFF57920B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5281FE0-EEC2-405E-B9EF-32E23CEE190B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5281FE0-EEC2-405E-B9EF-32E23CEE190B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5281FE0-EEC2-405E-B9EF-32E23CEE190B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5281FE0-EEC2-405E-B9EF-32E23CEE190B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15D85831-4A1C-4B59-BD1C-4A7309956753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D85831-4A1C-4B59-BD1C-4A7309956753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D85831-4A1C-4B59-BD1C-4A7309956753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D85831-4A1C-4B59-BD1C-4A7309956753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD52090A-130E-4E34-8127-2E23D0EDF93A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD52090A-130E-4E34-8127-2E23D0EDF93A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD52090A-130E-4E34-8127-2E23D0EDF93A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD52090A-130E-4E34-8127-2E23D0EDF93A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E451408-340F-48D8-B064-AED4A0AAC678}
+	EndGlobalSection
+EndGlobal
