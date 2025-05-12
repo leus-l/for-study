@@ -1,0 +1,17 @@
+C:\Python\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Python\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Python\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Python\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Python\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Python\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Python\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Python\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Python\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Python\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Python\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Python\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Python\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+C:\Python\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+C:\Python\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form6.resources
+C:\Python\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form7.resources
+C:\Python\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form8.resources
