@@ -1,0 +1,10 @@
+C:\Python\WindowsFormsApp4\WinFormsApp_SaveLoadFragments\bin\Debug\WinFormsApp_SaveLoadFragments.exe.config
+C:\Python\WindowsFormsApp4\WinFormsApp_SaveLoadFragments\bin\Debug\WinFormsApp_SaveLoadFragments.exe
+C:\Python\WindowsFormsApp4\WinFormsApp_SaveLoadFragments\bin\Debug\WinFormsApp_SaveLoadFragments.pdb
+C:\Python\WindowsFormsApp4\WinFormsApp_SaveLoadFragments\obj\Debug\WinFormsApp_SaveLoadFragments.csproj.AssemblyReference.cache
+C:\Python\WindowsFormsApp4\WinFormsApp_SaveLoadFragments\obj\Debug\WinFormsApp_SaveLoadFragments.Form1.resources
+C:\Python\WindowsFormsApp4\WinFormsApp_SaveLoadFragments\obj\Debug\WinFormsApp_SaveLoadFragments.Properties.Resources.resources
+C:\Python\WindowsFormsApp4\WinFormsApp_SaveLoadFragments\obj\Debug\WinFormsApp_SaveLoadFragments.csproj.GenerateResource.cache
+C:\Python\WindowsFormsApp4\WinFormsApp_SaveLoadFragments\obj\Debug\WinFormsApp_SaveLoadFragments.csproj.CoreCompileInputs.cache
+C:\Python\WindowsFormsApp4\WinFormsApp_SaveLoadFragments\obj\Debug\WinFormsApp_SaveLoadFragments.exe
+C:\Python\WindowsFormsApp4\WinFormsApp_SaveLoadFragments\obj\Debug\WinFormsApp_SaveLoadFragments.pdb

@@ -1,0 +1,10 @@
+C:\Python\WindowsFormsApp4\WinFormsApp_LuckyTicket\bin\Debug\WinFormsApp_LuckyTicket.exe.config
+C:\Python\WindowsFormsApp4\WinFormsApp_LuckyTicket\bin\Debug\WinFormsApp_LuckyTicket.exe
+C:\Python\WindowsFormsApp4\WinFormsApp_LuckyTicket\bin\Debug\WinFormsApp_LuckyTicket.pdb
+C:\Python\WindowsFormsApp4\WinFormsApp_LuckyTicket\obj\Debug\WinFormsApp_LuckyTicket.csproj.AssemblyReference.cache
+C:\Python\WindowsFormsApp4\WinFormsApp_LuckyTicket\obj\Debug\WinFormsApp_LuckyTicket.Form1.resources
+C:\Python\WindowsFormsApp4\WinFormsApp_LuckyTicket\obj\Debug\WinFormsApp_LuckyTicket.Properties.Resources.resources
+C:\Python\WindowsFormsApp4\WinFormsApp_LuckyTicket\obj\Debug\WinFormsApp_LuckyTicket.csproj.GenerateResource.cache
+C:\Python\WindowsFormsApp4\WinFormsApp_LuckyTicket\obj\Debug\WinFormsApp_LuckyTicket.csproj.CoreCompileInputs.cache
+C:\Python\WindowsFormsApp4\WinFormsApp_LuckyTicket\obj\Debug\WinFormsApp_LuckyTicket.exe
+C:\Python\WindowsFormsApp4\WinFormsApp_LuckyTicket\obj\Debug\WinFormsApp_LuckyTicket.pdb

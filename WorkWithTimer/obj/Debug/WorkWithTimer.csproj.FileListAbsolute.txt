@@ -1,0 +1,10 @@
+C:\Python\WindowsFormsApp4\WorkWithTimer\bin\Debug\WorkWithTimer.exe.config
+C:\Python\WindowsFormsApp4\WorkWithTimer\bin\Debug\WorkWithTimer.exe
+C:\Python\WindowsFormsApp4\WorkWithTimer\bin\Debug\WorkWithTimer.pdb
+C:\Python\WindowsFormsApp4\WorkWithTimer\obj\Debug\WorkWithTimer.csproj.AssemblyReference.cache
+C:\Python\WindowsFormsApp4\WorkWithTimer\obj\Debug\WorkWithTimer.Form1.resources
+C:\Python\WindowsFormsApp4\WorkWithTimer\obj\Debug\WorkWithTimer.Properties.Resources.resources
+C:\Python\WindowsFormsApp4\WorkWithTimer\obj\Debug\WorkWithTimer.csproj.GenerateResource.cache
+C:\Python\WindowsFormsApp4\WorkWithTimer\obj\Debug\WorkWithTimer.csproj.CoreCompileInputs.cache
+C:\Python\WindowsFormsApp4\WorkWithTimer\obj\Debug\WorkWithTimer.exe
+C:\Python\WindowsFormsApp4\WorkWithTimer\obj\Debug\WorkWithTimer.pdb

@@ -1,0 +1,10 @@
+C:\Python\WindowsFormsApp4\WinFormsApp_ImpUserInterface\bin\Debug\WinFormsApp_ImpUserInterface.exe.config
+C:\Python\WindowsFormsApp4\WinFormsApp_ImpUserInterface\bin\Debug\WinFormsApp_ImpUserInterface.exe
+C:\Python\WindowsFormsApp4\WinFormsApp_ImpUserInterface\bin\Debug\WinFormsApp_ImpUserInterface.pdb
+C:\Python\WindowsFormsApp4\WinFormsApp_ImpUserInterface\obj\Debug\WinFormsApp_ImpUserInterface.csproj.AssemblyReference.cache
+C:\Python\WindowsFormsApp4\WinFormsApp_ImpUserInterface\obj\Debug\WinFormsApp_ImpUserInterface.Form1.resources
+C:\Python\WindowsFormsApp4\WinFormsApp_ImpUserInterface\obj\Debug\WinFormsApp_ImpUserInterface.Properties.Resources.resources
+C:\Python\WindowsFormsApp4\WinFormsApp_ImpUserInterface\obj\Debug\WinFormsApp_ImpUserInterface.csproj.GenerateResource.cache
+C:\Python\WindowsFormsApp4\WinFormsApp_ImpUserInterface\obj\Debug\WinFormsApp_ImpUserInterface.csproj.CoreCompileInputs.cache
+C:\Python\WindowsFormsApp4\WinFormsApp_ImpUserInterface\obj\Debug\WinFormsApp_ImpUserInterface.exe
+C:\Python\WindowsFormsApp4\WinFormsApp_ImpUserInterface\obj\Debug\WinFormsApp_ImpUserInterface.pdb
